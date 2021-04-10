@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🌨
+
+Welcome to my GitHub page!
+
+I am a software engineer. I am married to C++, but I still think about C#. I also like to have flings with Perl, PHP and recently zig. 
 
 <!--
 **zethon/zethon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
