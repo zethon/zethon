@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!
 
-I am a software engineer. I mostly workin in C++, but I still work a lot in C#. I also like to have use Perl, PHP and recently I have been experimenting with zig. 
+I am a software engineer. I mostly workin in C++, but I still work a lot in C#. I also like to use Perl, PHP, and recently I have been experimenting with zig. 
 
 <!--
 **zethon/zethon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
