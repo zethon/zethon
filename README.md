@@ -2,7 +2,10 @@
 
 Welcome to my GitHub page!
 
-I am a software engineer. I mostly work in C++, but I still work a lot in C#. I also like to use Perl, PHP, and recently I have been experimenting with zig. 
+I am a software engineer. I mostly work in C++, but I like to use C#, Perl, PHP, and recently I have been experimenting with zig.
+
+Currently I am working on a video game that I classify as a cross between Stardew Valley and Grand Theft Auto, which you can check out [here](http://ttvg.online). 
+
 
 <!--
 **zethon/zethon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
