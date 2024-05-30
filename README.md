@@ -8,19 +8,19 @@ I also have a [YouTube](https://www.youtube.com/@AddyGoesPlaces) channel where I
 
 Here are a few other projects worth mentioning: 
 
-### Owl 🦉
+### [Owl](https://github.com/zethon/Owl) 🦉
 
 Owl began as a "message board reader" or "Outlook for message boards". I would love to add Reddit support to Owl, as well release a decentralized chat system where Owl is the premiere chat client. 
 
-### AshCoin 🪙
+### [AshCoin](https://github.com/zethon/AshCoin) 🪙
 
 This project began as a quest to understand the details of cryptocurrencies, and what better way to understand than to write your very own from scratch!
 
-### AshDB
+### [AshDB](https://github.com/zethon/AshDB)
 
 AshDB grew from AshCoin (hence the name) when I realized the work I was doing for a simple write-once-read-often index-based database could be its own project.
 
-### arcc 
+### [arcc]((https://github.com/zethon/arcc)
 
 Another Reddit Console Client stemmed from the a desire to have a simple Reddit client that didn't require installing a zillion Javascript modules or Python libraries.
 
