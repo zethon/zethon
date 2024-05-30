@@ -20,7 +20,7 @@ This project began as a quest to understand the details of cryptocurrencies, and
 
 AshDB grew from AshCoin (hence the name) when I realized the work I was doing for a simple write-once-read-often index-based database could be its own project.
 
-### [arcc]((https://github.com/zethon/arcc)
+### [arcc](https://github.com/zethon/arcc)
 
 Another Reddit Console Client stemmed from the a desire to have a simple Reddit client that didn't require installing a zillion Javascript modules or Python libraries.
 
