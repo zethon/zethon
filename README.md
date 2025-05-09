@@ -2,9 +2,9 @@
 
 I am a software engineer. I mostly work in C++, but I like to use C#, Python and other languages.
 
-I also have a [YouTube](https://www.youtube.com/@AddyGoesPlaces) channel where I chronical my various travels and often do **[live programming](https://www.youtube.com/@AddyGoesPlaces/streams)**.
+I have a YouTube channel where I do [live coding](https://www.youtube.com/@AddyGoesLive/streams), often with a humorous slant.
 
-⚡ Currently I am working on a video game that asks players to draw the maps 🗺️ of countries and other regions in a time-controlled setting. Check out the [GeoSketch](https://github.com/zethon/geosketch) repo!
+⚡ I am currently working on a horror/survival video game where the player must not only save himself, but must also save his family. This game will feature a unique game mechanic where the player give the family member NPCs repetitive or conditional commands (e.g. "stay here until the guard comes and then run to the kitchen", or "keep hiding for two minutes and then run to the tree outside"). Check out the [prototype repo](https://github.com/DogFingerStudios/Home-Prototype001)!
 
 Here are a few other projects worth mentioning: 
 
