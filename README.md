@@ -2,7 +2,7 @@
 
 I am a software engineer. I mostly work in C++, but I like to use C#, Python and other languages.
 
-⚡ I am currently working on a horror/survival video game where the player must not only save himself, but must also save his family. This game will feature a unique game mechanic where Players control "friendly NPCs" with complicated commands and building a unique strategy in order to win. Check out the [prototype repo](https://github.com/DogFingerStudios/Home-Prototype001)!
+⚡ I am currently working on a horror/survival video game where the player must not only save himself, but must also save his family. This game will feature a unique game mechanic where Players control "Friendly NPCs" (i.e the family) with complicated commands and build a unique strategy in order to win. Check out the [prototype repo](https://github.com/DogFingerStudios/Home-Prototype001)!
 
 Here are a few other projects worth mentioning: 
 
