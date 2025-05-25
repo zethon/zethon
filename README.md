@@ -2,15 +2,13 @@
 
 I am a software engineer. I mostly work in C++, but I like to use C#, Python and other languages.
 
-I have a YouTube channel where I do [live coding](https://www.youtube.com/@AddyGoesLive/streams), often with a humorous slant.
-
-⚡ I am currently working on a horror/survival video game where the player must not only save himself, but must also save his family. This game will feature a unique game mechanic where the player give the family member NPCs repetitive or conditional commands (e.g. "stay here until the guard comes and then run to the kitchen", or "keep hiding for two minutes and then run to the tree outside"). Check out the [prototype repo](https://github.com/DogFingerStudios/Home-Prototype001)!
+⚡ I am currently working on a horror/survival video game where the player must not only save himself, but must also save his family. This game will feature a unique game mechanic where Players control "friendly NPCs" with complicated commands and building a unique strategy in order to win. Check out the [prototype repo](https://github.com/DogFingerStudios/Home-Prototype001)!
 
 Here are a few other projects worth mentioning: 
 
 ### [Home (Working Title)](https://github.com/DogFingerStudios/Home-Prototype001)
 
-A survival horror game set in a fictiona;l war-torn city in the 1940s tower. Players control friendly NPCs in an effort to save everyone. 
+A survival horror game set in a fictiona;l war-torn city in the 1940s tower. 
 
 ### [Owl](https://github.com/zethon/Owl) 🦉
 
