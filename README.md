@@ -7,7 +7,7 @@ Other than programming, I enjoy playing chess and drawing, though I am not very 
 
 ## Projects
 
-Here are a few other projects worth mentioning: 
+Here are a few projects worth mentioning:
 
 #### [No Escape](https://github.com/DogFingerStudios/NoEscape) 🏃‍♂️💨
 
