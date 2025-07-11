@@ -4,6 +4,10 @@ I am a software developer who is comfortable with a variety of languages and fra
 
 Other than programming, I enjoy playing chess and drawing, though I am not very good at either. 
 
+I do live coding at [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@AddyGoesPlaces).
+
+You can find my on social media at the following links as well:
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/AddyGoesPlaces)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/AddyGoesPlaces)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AddyGoesPlaces)
