@@ -2,7 +2,7 @@
 <a href="https://youtube.com/@AddyGoesLive">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" width="16" style="vertical-align:middle; margin-right:4px;">
   @AddyGoesLive
-</a>/br></br>
+</a></br></br>
 
 I am a software developer who is comfortable with a variety of languages and frameworks, but I specialize in C++. I am also very comfortable with C#, Python, and JavaScript. I enjoy both application and game development. 
 
