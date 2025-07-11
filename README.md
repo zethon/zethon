@@ -2,7 +2,12 @@
 
 I am a software developer who is comfortable with a variety of languages and frameworks, but I specialize in C++. I am also very comfortable with C#, Python, and JavbaScript. I enjoy both application and game development. 
 
-Other than programming, I enjoy playing chess and drawing, though I am not very good at either. I also enjoy making YouTube videos, and live streaming the development of my projects. You can find me on [YouTube](https://www.youtube.com/@AddyGoesPlaces).
+Other than programming, I enjoy playing chess and drawing, though I am not very good at either. 
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/AddyGoesPlaces)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/AddyGoesPlaces)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AddyGoesPlaces)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@AddyGoesPlaces)
 
 
 ## Projects
