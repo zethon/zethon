@@ -4,10 +4,26 @@ I am a software developer who is comfortable with a variety of languages and fra
 
 Other than programming, I enjoy playing chess and drawing, though I am not very good at either. 
 
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg) @AddyGoesPlaces](https://facebook.com/AddyGoesPlaces)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg) @AddyGoesPlaces](https://instagram.com/AddyGoesPlaces)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg) @AddyGoesPlaces](https://twitter.com/AddyGoesPlaces)
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg) @AddyGoesPlaces](https://youtube.com/@AddyGoesPlaces)
+<a href="https://facebook.com/AddyGoesPlaces">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" width="16" style="vertical-align:middle; margin-right:4px;">
+  @AddyGoesPlaces
+</a><br>
+
+<a href="https://instagram.com/AddyGoesPlaces">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="16" style="vertical-align:middle; margin-right:4px;">
+  @AddyGoesPlaces
+</a><br>
+
+<a href="https://twitter.com/AddyGoesPlaces">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg" alt="Twitter" width="16" style="vertical-align:middle; margin-right:4px;">
+  @AddyGoesPlaces
+</a><br>
+
+<a href="https://youtube.com/@AddyGoesPlaces">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" width="16" style="vertical-align:middle; margin-right:4px;">
+  @AddyGoesPlaces
+</a>
+
 
 
 
