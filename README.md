@@ -23,7 +23,7 @@ Owl began as a "message board reader" or "Outlook for message boards". I would l
 
 #### [ttvg](https://github.com/zethon/ttvg) 📺
 
-This project is as much a game as it is a game enginer. It uses SFML to render a 2D world, play sounds and handle player input. Mechanices like collision detection, pathfinding, and a basic AI systems are all written from scratch and in C++. The project also includes a Lua scripting system to allow for easy modding of the game.
+This project is as much a game as it is a game engine. It uses SFML to render a 2D world, play sounds and handle player input. Mechanices like collision detection, pathfinding, and a basic AI systems are all written from scratch and in C++. The project also includes a Lua scripting system to allow for easy modding.
 
 #### [AshCoin](https://github.com/zethon/AshCoin) 🪙
 
