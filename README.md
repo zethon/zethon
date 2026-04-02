@@ -4,7 +4,7 @@ I am a software developer who is comfortable with a variety of languages and fra
 
 Other than programming, I enjoy playing chess and drawing, though I am not very good at either. 
 
-I do live streams on my YouTube channel at: <a href="https://youtube.com/@AddyGoesPlaces/live">
+I do live streams on my YouTube channel at: <a href="https://youtube.com/@AddyGoesPlaces/streams">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" width="16" style="vertical-align:middle; margin-right:4px;">
   @AddyGoesPlaces
 </a>.
