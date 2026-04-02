@@ -6,7 +6,7 @@ Other than programming, I enjoy playing chess and drawing, though I am not very 
 
 I do live streams on my YouTube channel at: <a href="https://youtube.com/@AddyGoesPlaces/live">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" width="16" style="vertical-align:middle; margin-right:4px;">
-  @AddyGoesLive
+  @AddyGoesPlaces
 </a>.
 
 ## Projects
